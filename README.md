@@ -43,3 +43,34 @@ The API expects a JSON object with a single key `data`, which holds an array of 
 {
   "data": ["2","a", "y", "4", "&", "-", "*", "5","92","b"]
 }
+
+Success Response (Status 200)
+If the request is successful, the API returns a detailed JSON object.
+
+```json
+{
+    "is_success": true,
+    "user_id": "yavish_sahrawat_25112003",
+    "email": "yavish.22bce8409@vitapstudent.ac.in",
+    "roll_number": "22BCE8409",
+    "sum": "103",
+    "odd_numbers": [
+        "5"
+    ],
+    "even_numbers": [
+        "2",
+        "4",
+        "92"
+    ],
+    "alphabets": [
+        "A",
+        "Y",
+        "B"
+    ],
+    "special_characters": [
+        "&",
+        "-",
+        "*"
+    ],
+    "concat_string": "ByA"
+}
