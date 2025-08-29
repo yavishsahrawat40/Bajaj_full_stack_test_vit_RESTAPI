@@ -30,7 +30,7 @@ The single endpoint for processing data is described below.
 * **Endpoint:** `/bfhl`
 
 #### Live Endpoint
-`https://<your-deployed-url>/bfhl` 
+`https://bajaj-full-stack-test-vit-restapi.vercel.app/bfhl` 
 ---
 
 ## Request & Response Format
