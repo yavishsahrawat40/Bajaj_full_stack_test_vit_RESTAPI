@@ -43,6 +43,7 @@ The API expects a JSON object with a single key `data`, which holds an array of 
 {
   "data": ["2","a", "y", "4", "&", "-", "*", "5","92","b"]
 }
+```
 
 Success Response (Status 200)
 If the request is successful, the API returns a detailed JSON object.
@@ -74,3 +75,4 @@ If the request is successful, the API returns a detailed JSON object.
     ],
     "concat_string": "ByA"
 }
+```
