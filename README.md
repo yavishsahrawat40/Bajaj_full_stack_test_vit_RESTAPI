@@ -18,7 +18,7 @@ This is a REST API built as part of an assessment. The API processes an array co
 ## Tech Stack 💻
 
 * **Backend:** Node.js, Express.js
-* **Hosting:** Vercel / Railway / Render
+* **Hosting:** Vercel
 
 ---
 
